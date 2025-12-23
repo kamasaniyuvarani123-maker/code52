@@ -1,0 +1,2 @@
+# code52
+ASCII
